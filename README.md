@@ -1,3 +1,3 @@
 - 💭 I focus on backend systems, CLIs, and TUIs
-- ✍️ I occasionally write technical posts on my [blog](https://mozturk.dev/)
+- ✍️ I occasionally write on my [blog](https://mozturk.dev/)
 - 🧑‍💻 I mostly work with Go, Python and PostgreSQL
